@@ -1,0 +1,30 @@
+<html>
+</head>
+<body>
+	<Meu primeiro formulario "</h1>
+	</h1>
+	</b>
+	formulario de cadastro
+	</b>
+	<form action="#">
+		<h6>
+		<label for='txtnome'>Nome:</label>
+		<input id='textNome'type="text"/>
+		<br>
+	 <label for='txtSobrenome'>Sobrenome:</label>
+		<input id='txtSobrenome'>
+		<br>
+		<label for='DtNascimento'>Data Nascimento:</label>
+		<input id='datadenascimento' type="date"/>		
+		<br>
+		<label for=txtCPF''>CPF:</label>
+		<input id='txtCpf'> 
+		<br>
+		<label for='txtTelefone'>telefone:</label>
+		<input id='txttelefone'>
+		<br>
+		<label for=" txtgenero">genero:</label>
+		<input id="txtgenero">
+		</h6>
+		</body>
+		</html>
